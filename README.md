@@ -79,4 +79,3 @@ terraform apply
 ```zsh
 terraform destroy
 ```
-```
